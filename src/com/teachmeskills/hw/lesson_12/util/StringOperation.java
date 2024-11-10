@@ -3,7 +3,7 @@ package com.teachmeskills.hw.lesson_12.util;
 import com.teachmeskills.hw.lesson_12.fabric.ValidatorFabric;
 import com.teachmeskills.hw.lesson_12.validator.InputValidator;
 
-public class StringCheck {
+public class StringOperation {
 
     public static void inputStringAnalyze(String userInput) {
 

@@ -1,6 +1,6 @@
 package com.teachmeskills.hw.lesson_12;
 
-import com.teachmeskills.hw.lesson_12.util.StringCheck;
+import com.teachmeskills.hw.lesson_12.util.StringOperation;
 
 import java.util.Scanner;
 
@@ -22,7 +22,7 @@ public class ApplicationRunner {
         System.out.println("Please, enter and URL or Hex code to check");
         String userInput = scanner.nextLine();
 
-        StringCheck.inputStringAnalyze(userInput);
+        StringOperation.inputStringAnalyze(userInput);
     }
 }
 
