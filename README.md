@@ -1,6 +1,6 @@
 # TeachMeSkills_C32_HW_Lesson_12
 
-## The following tasks are imlemented (Fabric patter in used):
+## The following tasks are implemented (Fabric pattern is used):
 ### Task 1
 Write a program to check if a given string is a hex color code.
 For example, if the input is #8b2323, the program should return "Yes."
